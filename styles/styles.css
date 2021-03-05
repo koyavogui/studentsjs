@@ -1,0 +1,12 @@
+.bg-light-success{
+    background-color: #c9f7f5 !important;
+    color: #20c997 !important;
+}
+.bg-light-warning{
+    background-color: #fff3cd !important;
+    color: #e9d358 !important;
+}
+.bg-light-danger{
+    background-color: #f7c9c9 !important;
+    color: #df1515 !important;
+}
